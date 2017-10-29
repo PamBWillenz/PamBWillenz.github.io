@@ -2,16 +2,21 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/sample_feature_img_2.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Thanks for looking at my portfolio. For more information on me, my work experience, check out my [resume](https://github.com/PamBWillenz/resume). 
+
+Please leave me a message and I'll get back to you as soon as possible.
 
 <form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
-  <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='Your E-mail Address' />
-  <textarea name='message' placeholder='Write your message ...'></textarea>
-  <input type='submit' value='Send Message' />
+  Name: <br>
+  <input class="form-control" type='text' name='name' size='60'  ><br>
+  Email: <br>
+  <input class="form-control" type='email' name='email' size='60' ><br>
+  Message: <br>
+  <textarea class="form-control" name='message' rows='6' cols='63'></textarea><br>
+   <input type='submit' value='Send Message' />
 </form>

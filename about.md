@@ -2,11 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+<img class="resize" src="/img/Pam_for_portfolio.png" alt="Pam">Hi, my name is Pam Willenz, I am a Digital Media/Project Manager with experience in health communications, project management and tech consumer learning. After working for a tech startup, I decided I wanted to take a deep-dive into the technology world and learn software development, web development. Please check out my [resume](https://github.com/PamBWillenz/resume). 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Visit my [GitHub page](https://github.com/PamBWillenz) to see my code and apps. Here in my portfolio, I share some of the apps I've built.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Besides my technical side, I live with my family (Mike and Pixel, the cat) in Northern Virginia, near Washington, DC. I enjoy the outdoors, especially cycling, hiking, swimming, skiing and pretty much anything outside. I also love to cook and am experimenting with Green Chef and all the fabulous recipes.
+
+Pam
+
+_Take chances, make mistakes. That's how you grow. Pain nourishes your courage. You have to fail in order to practice being brave - Mary Tyler Moore_
