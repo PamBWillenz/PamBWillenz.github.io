@@ -15,6 +15,7 @@ short-description: Flixter -  Learn to Code!
 <h3> User's Course Show Page </h3>
 
 <img src="/img/flixter_course_page.png">
+<br>
 
 <h3>Instructor Course Page </h3>
 
